@@ -13,7 +13,7 @@ This is a web based application developed for Workout (fitness centre) related w
 - Static web apps
 - Health bot
 
-## Features and Functionalities 😃
+## Features and Functionalities ✏
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -32,21 +32,27 @@ This is a web based application developed for Workout (fitness centre) related w
 ![2](https://user-images.githubusercontent.com/121605316/210095260-604cacea-ebd7-4b7e-ab63-4d03c145a8c9.PNG)
 
 ### About Us -
-
-
+ADDRESS:
+New York, Alexandria, VA 2230, NY-90814 Hill Station 4th Street.
+OPENING HOURS:
+We are working on
+ Mon - Fri : 7am to 9pm
+ Sat - Sun : 10 am to 8 pm
 
 
 ### Services -
-
+Our club encourages wellness by providing top-notch equipment, first-class instructors, innovative classes, and qualified staff.
 
 
 ### Contact us -
+Join the Best GYM in Your Town!
 
+ Phn: +1-2345-678-11
 
+ mail@example.com
 
-### health bot
-
-
+### health bot -
+An AI-powered cloud platform virtual health assistant.
 
 
 ## Tech Stack 💻
